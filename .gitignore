@@ -1,0 +1,8 @@
+# OSP files
+*.osp
+
+# Channel assets
+YouTube/ChannelBranding/
+
+# 1_Knowledge_Graphs assets
+YouTube/1_Knowledge_Graphs/assets
