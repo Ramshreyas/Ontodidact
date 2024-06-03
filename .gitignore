@@ -1,3 +1,6 @@
+# env
+.env
+
 # OSP files
 *.osp
 
@@ -6,3 +9,9 @@ YouTube/ChannelBranding/
 
 # 1_Knowledge_Graphs assets
 YouTube/1_Knowledge_Graphs/assets
+
+# Neo4j
+data/
+
+# Neo4j plugins
+plugins/
